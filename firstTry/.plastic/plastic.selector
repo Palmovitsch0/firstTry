@@ -1,0 +1,4 @@
+repository "firstTry/firstTry 2025-08-01_11-22-18@9072292723282@cloud"
+  path "/"
+    br "/main"
+    co "/main"
